@@ -13,7 +13,7 @@ This project is my personal Portifolio on which you my find my recent work and c
 
 ## Live Demo
 
-[Live Demo Link](https://github.io/Portifolio/)
+[Live Demo Link](https://github.io/Portfolio/)
 
 
 ## Getting Started
@@ -33,8 +33,6 @@ npx stylelint "**/*.{css,scss}" npx hint ./index.html
 ### Usage
 
 1. Open index.html located at the route folder of the project
-
-
 
 ## Author
 
