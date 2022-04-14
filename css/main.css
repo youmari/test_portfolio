@@ -412,3 +412,13 @@ li {
   background: #fff5e1;
   border: 1px solid #f55800;
 }
+
+.footer-form .see-project-button:active {
+  color: #f4f1f0;
+  background: #e05304;
+}
+
+.footer-form .see-project-button:disabled {
+  color: #5b5957;
+  background: #f4f1f0;
+}
